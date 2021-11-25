@@ -1,0 +1,14 @@
+C:\Imersao_Logica\controleCaixa\controleCaixa\obj\Debug\netcoreapp3.1\controleCaixa.csproj.AssemblyReference.cache
+C:\Imersao_Logica\controleCaixa\controleCaixa\obj\Debug\netcoreapp3.1\controleCaixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Imersao_Logica\controleCaixa\controleCaixa\obj\Debug\netcoreapp3.1\controleCaixa.AssemblyInfoInputs.cache
+C:\Imersao_Logica\controleCaixa\controleCaixa\obj\Debug\netcoreapp3.1\controleCaixa.AssemblyInfo.cs
+C:\Imersao_Logica\controleCaixa\controleCaixa\obj\Debug\netcoreapp3.1\controleCaixa.csproj.CoreCompileInputs.cache
+C:\Imersao_Logica\controleCaixa\controleCaixa\bin\Debug\netcoreapp3.1\controleCaixa.exe
+C:\Imersao_Logica\controleCaixa\controleCaixa\bin\Debug\netcoreapp3.1\controleCaixa.deps.json
+C:\Imersao_Logica\controleCaixa\controleCaixa\bin\Debug\netcoreapp3.1\controleCaixa.runtimeconfig.json
+C:\Imersao_Logica\controleCaixa\controleCaixa\bin\Debug\netcoreapp3.1\controleCaixa.runtimeconfig.dev.json
+C:\Imersao_Logica\controleCaixa\controleCaixa\bin\Debug\netcoreapp3.1\controleCaixa.dll
+C:\Imersao_Logica\controleCaixa\controleCaixa\bin\Debug\netcoreapp3.1\controleCaixa.pdb
+C:\Imersao_Logica\controleCaixa\controleCaixa\obj\Debug\netcoreapp3.1\controleCaixa.dll
+C:\Imersao_Logica\controleCaixa\controleCaixa\obj\Debug\netcoreapp3.1\controleCaixa.pdb
+C:\Imersao_Logica\controleCaixa\controleCaixa\obj\Debug\netcoreapp3.1\controleCaixa.genruntimeconfig.cache
